@@ -1,22 +1,11 @@
-# Hola! 🤙
+# Hola!
 
-## About me
+## ✍️ Sobre mi
 
-Hi, my name is Fer. I am a software developer currently placed in Valencia.
+Bienvenid@ a mi perfil, soy **Fer** un desarrollador al que le gusta probar cosas nuevas y enseñar a utilizarlas. 
+Llevo desarrollando aplicaciones desde hace bastante tiempo, pero sobretodo desde hace 6 centrado en el desarrollo móvil. 
+Junto a mi mejor amigo funde una empresa centrada en este sector llamada **rudo apps** (https://rudo.es) somos mas de 60 personas y esperamos seguir creciendo todavía más. 
+Trabajamos codo con codo con empresas como Mercadona, Banco Santander, Inditex etc para ayudarles a desarrollar sus productos.
 
-Currently working for a company that I founded called **rudo apps**. In Rudo we help clients of all sizes to solve their problems we work for companies like Mercadona, Blanco Santander or Inditex
-
-<!--
-**fsalom/fsalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Qué puedes encontrar aquí
+En este perfil encontrarás muchos MVPs de distintas tecnologías pero principalmente orientado al desarrollo móvil. 
