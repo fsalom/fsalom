@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hola! 🤙
+
+## About me
+
+Hi, my name is Fer. I am a software developer currently placed in Valencia.
+
+Currently working for a company that I founded called **rudo apps**. In Rudo we help clients of all sizes to solve their problems we work for companies like Mercadona, Blanco Santander or Inditex
 
 <!--
 **fsalom/fsalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
