@@ -15,5 +15,6 @@ muy centrado en IOs con Swift y python con Django.
 ## 📬 Contacto
 
 LinkedIn: https://www.linkedin.com/in/fsalom/
+
 correo: fdosalom@gmail.com
 
