@@ -8,4 +8,12 @@ Junto a mi mejor amigo funde una empresa centrada en este sector llamada **rudo 
 Trabajamos codo con codo con empresas como Mercadona, Banco Santander, Inditex etc para ayudarles a desarrollar sus productos.
 
 ## 👀 Qué puedes encontrar aquí
-En este perfil encontrarás muchos MVPs de distintas tecnologías pero principalmente orientado al desarrollo móvil. 
+
+En este perfil encontrarás muchos MVPs de distintas tecnologías pero principalmente orientado al desarrollo móvil. Ahora mismo estoy
+muy centrado en IOs con Swift y python con Django.
+
+## 📬 Contacto
+
+LinkedIn: https://www.linkedin.com/in/fsalom/
+correo: fdosalom@gmail.com
+
