@@ -1,4 +1,6 @@
-# Hola!
+# Hola, soy Fer 👋👨‍💻
+
+![Banner](../README/banner.png)
 
 ## ✍️ Sobre mi
 
