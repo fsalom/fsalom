@@ -13,7 +13,4 @@ Hay una parte de mi trabajo dedicada a formar equipos y crear soluciones basadas
 
 ## 📬 Contacto
 
-LinkedIn: https://www.linkedin.com/in/fsalom/
-
-correo: fdosalom@gmail.com
-
+https://www.linkedin.com/in/fsalom/
