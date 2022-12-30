@@ -1,19 +1,15 @@
 # Hola, soy Fer 👋👨‍💻
 
-<img src="https://github.com/fsalom/fsalom/blob/main/README/banner.png?raw=true" alt="banner that says Fernando Salom - Architecture, development and learning">
-
 ## ✍️ Sobre mi
 
-Bienvenid@ a mi perfil, soy **Fer** un desarrollador al que le gusta probar cosas nuevas y enseñar a utilizarlas. 
-Llevo desarrollando aplicaciones desde hace bastante tiempo, pero sobretodo desde hace 6 centrado en el desarrollo móvil. 
-Junto a mi mejor amigo funde una empresa centrada en este sector llamada **rudo apps** (https://rudo.es) somos mas de 60 personas y esperamos seguir creciendo todavía más. 
+Bienvenid@ a mi github! me encanta trastear con todo tipo de tecnología. Desde hace 6 años estoy muy centrado en el desarrollo móvil (APPs).
+Junto a mi mejor amigo fundé una empresa centrada en este sector llamada **rudo apps** (https://rudo.es). Empezamos siendo 4 hace unos años y ahora somos ya un montón (60 personas) y tenemos como objetivo ser los mejores de españa en este campo. ¿Demasiado ambicioso? tal véz, pero ¿qué es la vida sin retos?. 
 
-Trabajamos codo con codo con empresas como Mercadona, Banco Santander, Inditex etc para ayudarles a desarrollar sus productos.
+Trabajamos codo con codo con grandes empresas algunas de ellas del IBEX 35, para ayudar en crear sus productos.
 
 ## 👀 Qué puedes encontrar aquí
 
-En este perfil encontrarás muchos MVPs de distintas tecnologías pero principalmente orientado al desarrollo móvil. Ahora mismo estoy
-muy centrado en IOs con Swift y python con Django.
+Hay una parte de mi trabajo dedicada a formar equipos y crear soluciones basadas en distintas arquitecturas dependiendo de las condiciones del proyecto. He creado esta cuenta para mi practica personal con distintas tecnologías y para orientar a todo aquel con ganas de aprender en como funciona este mundo. 
 
 ## 📬 Contacto
 
