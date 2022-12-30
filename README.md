@@ -11,6 +11,15 @@ Trabajamos codo con codo con grandes empresas algunas de ellas del IBEX 35, para
 
 Hay una parte de mi trabajo dedicada a formar equipos y crear soluciones basadas en distintas arquitecturas dependiendo de las condiciones del proyecto. He creado esta cuenta para mi practica personal con distintas tecnologías y para orientar a todo aquel con ganas de aprender en como funciona este mundo. 
 
+## 🚀 Proyectos destacados
+
+Aquí hay algunos de mis proyectos destacados:
+
+[TripleA](https://github.com/fsalom/TripleA): Es un swift package para gestionar llamadas API así como gestión de tokens. Esta basado en llamadas asincronas utilizando Async/Await 
+
 ## 📬 Contacto
 
 https://www.linkedin.com/in/fsalom/
+
+
+
