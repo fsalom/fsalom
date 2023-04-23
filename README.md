@@ -1,4 +1,6 @@
-# Hola, soy Fer 👋👨‍💻
+[ENGLISH](/README_EN.md)
+
+# Hola, soy Fer 👋👨‍💻 
 
 ## ✍️ Sobre mi
 
